@@ -16,6 +16,14 @@ h1 {
     margin: 20px 10px; // Primo, sopra e sotto - Secondo, destra e sinistra*/
 }
 
+/*.second-class {
+    color: lightpink;
+    background-color: blue;
+    width: 50%;
+    height: auto;
+    margin: 20px;
+}*/
+
 .header-subtitle {
     color: green;
 }
