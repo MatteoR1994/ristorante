@@ -1,0 +1,25 @@
+h1 {
+    color: lightpink;
+    background-color: blue;
+    width: 50%;
+    height: 50px;
+    /*min-width: 300px;
+    max-width: 400px;
+    overflow: hidden;
+    overflow: scroll;
+    overflow-y: scroll;*/
+    margin: 20px;
+    padding: 20px;
+    /*margin-top: 200px;
+    margin-left: 20px;
+    margin: 20px 10px 15px 5px;
+    margin: 20px 10px; // Primo, sopra e sotto - Secondo, destra e sinistra*/
+}
+
+.header-subtitle {
+    color: green;
+}
+
+#pippo {
+    color: orange;
+}
